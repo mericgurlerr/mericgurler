@@ -7,7 +7,9 @@
 🔧 Technical Expertise:
 
 Embedded Systems: Designing and programming microcontroller-based solutions.
+
 Hardware Design: Specializing in PCB layout, prototyping, and production with tools like desktop CNCs.
+
 System Engineering: Bridging hardware and software to create reliable, efficient, and scalable solutions.
 
 📈 Current Focus:
