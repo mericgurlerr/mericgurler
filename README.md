@@ -1,6 +1,7 @@
 💻 Electronics Engineer | Embedded Systems Developer | Hardware & System Designer
 
 
+
 🚀 Passionate Innovator: I’m an electronics engineer working at Beezsoft, where I contribute to cutting-edge projects that merge technology and creativity. My role encompasses hardware design, system integration, and embedded software development.
 
 🔧 Technical Expertise:
