@@ -6,6 +6,7 @@
 Embedded Systems: Designing and programming microcontroller-based solutions.
 Hardware Design: Specializing in PCB layout, prototyping, and production with tools like desktop CNCs.
 System Engineering: Bridging hardware and software to create reliable, efficient, and scalable solutions.
+
 📈 Current Focus:
 At Beezsoft, I’m involved in developing innovative systems tailored to modern technological demands. From concept to execution, I strive to deliver excellence in every phase of product development.
 
@@ -18,5 +19,6 @@ Staying ahead in the tech world means constant growth. I actively pursue knowled
 Advanced circuit design
 IoT and embedded AI
 Optimization of manufacturing processes
+
 🌍 Open to Collaboration:
 I believe that the best innovations come from teamwork. If you're interested in hardware, software, or system design projects, let’s connect!
